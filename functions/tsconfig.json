@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "src/*": ["src/*"]
+    },
+    "sourceMap": true,
+    "target": "es5", // TSはECMAScript 5に変換
+    "lib": ["dom", "es2019"]
+  }
+}
