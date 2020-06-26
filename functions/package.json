@@ -28,7 +28,7 @@
     "helmet": "^3.22.0"
   },
   "engines": {
-    "node": "8"
+    "node": "10"
   },
   "private": true
 }
